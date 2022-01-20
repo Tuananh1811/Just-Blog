@@ -1,0 +1,60 @@
+﻿
+@using FA.JustBlog.ViewModels.Categories
+@model CategoryViewModel
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="content container-fluid">
+    <div class="row">
+        <div class="col-xl-8 offset-xl-2">
+            <div class="page-header">
+                <div class="row">
+                    <div class="col">
+                        <h3 class="page-title">Thêm danh mục</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <form method="post" action="@Url.Action("Create", "ManageCategory")" enctype="multipart/form-data">
+                        @Html.AntiForgeryToken()
+                        <div class="form-group">
+                            <label>Tên danh mục</label>
+                            @Html.TextBoxFor(model => model.Name, new { @class = "form-control", onchange = "changeUrl('Name','UrlSlug')" })
+                            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <label>Url Slug</label>
+                            @Html.ValidationMessageFor(model => model.UrlSlug, "", new { @class = "text-danger" })
+                            @Html.TextBoxFor(model => model.UrlSlug, new { @class = "form-control", @readonly = true })
+                        </div>
+                        <div class="form-group">
+                            <label for="">Mô tả ngắn</label>
+                            @Html.TextAreaFor(model => model.Description, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Description, null, new { @class = "text-danger" })
+                        </div>
+                        <div class="mt-4">
+                            <button class="btn btn-primary" type="submit">
+                                Thêm
+                            </button>
+                            <a href="@Url.Action("Index","ManageCategory")" class="btn btn-link">Huỷ</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (ViewBag.Error != null)
+{
+    <br />
+    <div class="alert alert-danger" role="alert">@ViewBag.Error</div>
+}
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>

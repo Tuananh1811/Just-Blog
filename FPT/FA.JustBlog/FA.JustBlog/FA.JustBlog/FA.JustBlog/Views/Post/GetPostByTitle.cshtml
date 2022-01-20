@@ -1,0 +1,24 @@
+﻿@using FA.JustBlog.ViewModels.Posts
+@using FA.JustBlog.HtmlHelpers
+
+@model DetailsPostViewModel
+
+@{
+    ViewBag.Title = "GetPostByTitle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2 class="text-info">@Model.Title</h2>
+@if (Model.CreatedOn == Model.UpdatedOn)
+{
+    <p><small>Posted @Model.CreatedOn with rate @Model.Rate by @Model.ViewCount view(s)</small></p>
+}
+else
+{
+    <p><small>Modified @Model.UpdatedOn with rate @Model.Rate by @Model.ViewCount view(s)</small></p>
+}
+
+@Html.Raw(Model.PostContent)
+
+@Html.TagLink(Model.Tags)

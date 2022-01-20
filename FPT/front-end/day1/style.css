@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 100px auto;
+    width: 500px;
+    height: 500px;
+    background-color: aliceblue;
+    box-shadow: 5px 8px 8px 10px #888888;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+.container img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+p {
+    padding-top: 10px;
+}

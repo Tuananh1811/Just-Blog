@@ -1,0 +1,80 @@
+Given a positive integer n (n could be very big), you task is determine if that number is a power of 4.
+
+Example
+
+For n=4, the output should be isPowerOfFour(4) = true.
+4 is equal to 4 to the power of 1 so we return true.
+Input/Output
+
+[execution time limit] 0,5 seconds
+
+[input] long n
+a very big number
+
+[output] int
+Determine whether n is a power of 4.
+-------------------------------------------------------------------------------------------------
+boolean isPowerOfFour(long n) {
+     if (n<=1) return false;
+    while (n>1) {
+        if (n%4 != 0) return false;
+            n/=4;
+    }
+    return true;
+}
+______________________________________________________________________________________
+Remove all characters from a given string that appear more than once in it.
+
+Example
+
+For str = "zaabcbd", the output should be removeDuplicateCharacters(str) = "zcd".
+Input/Output
+
+[execution time limit] 3 seconds 
+
+[input] string str
+
+A string consisting of lower-case letters (a...z).
+
+Guaranteed constraints:
+2 ≤ str.length ≤ 100.
+
+[output] string
+
+Initial string where all characters appearing more than once are deleted.
+________________________________________________________________________________________
+String removeDuplicateCharacters(String str) {
+    
+    String kq = "";
+    int dem = 1;
+    for (int i = 0; i < str.length(); i++) {
+        dem = 1;
+        for (int j = 0; j < str.length(); j++) {
+            if (str.charAt(i) == str.charAt(j)) {
+                dem++;
+            }
+        }
+        if (dem <= 2) {
+            kq += str.charAt(i);
+        }
+    }
+    return kq;
+
+}
+__________________________________________________________________________________
+int fibonacciSumSet(int n) {
+    int f0=0,f1=1;
+    int fn=0;
+    for(int i=0;i<=n;i++){
+        if(n<=2){
+            return i;
+        }
+        else{
+            fn=f0+f1;
+            f0=f1;
+            f1=fn;
+        }
+    }
+     return fn;
+}
+CÒn 1 bài em chưa làm được.

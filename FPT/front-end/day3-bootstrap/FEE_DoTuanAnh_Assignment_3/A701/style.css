@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.background-img {
+    background-image: url("natural-4821583.png");
+    height: auto;
+    object-fit: cover;
+}
+
+i {
+    display: block;
+    color: antiquewhite;
+}

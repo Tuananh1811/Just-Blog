@@ -1,0 +1,17 @@
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\bin\Debug\FA.JustBlog.Common.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\bin\Debug\FA.JustBlog.Common.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.csproj.CoreCompileInputs.cache
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\bin\Debug\FA.JustBlog.Common.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\bin\Debug\FA.JustBlog.Common.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.csprojAssemblyReference.cache
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.csproj.CoreCompileInputs.cache
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\bin\Debug\FA.JustBlog.Common.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\bin\Debug\FA.JustBlog.Common.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.csprojAssemblyReference.cache
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.csproj.CoreCompileInputs.cache
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Common\obj\Debug\FA.JustBlog.Common.pdb

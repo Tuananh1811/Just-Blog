@@ -1,0 +1,7 @@
+D:\FPT\C#\NPM.Final\Problem.03\bin\Debug\Problem.03.exe.config
+D:\FPT\C#\NPM.Final\Problem.03\bin\Debug\Problem.03.exe
+D:\FPT\C#\NPM.Final\Problem.03\bin\Debug\Problem.03.pdb
+D:\FPT\C#\NPM.Final\Problem.03\obj\Debug\Problem.03.csprojAssemblyReference.cache
+D:\FPT\C#\NPM.Final\Problem.03\obj\Debug\Problem.03.csproj.CoreCompileInputs.cache
+D:\FPT\C#\NPM.Final\Problem.03\obj\Debug\Problem.03.exe
+D:\FPT\C#\NPM.Final\Problem.03\obj\Debug\Problem.03.pdb

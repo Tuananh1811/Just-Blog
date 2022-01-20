@@ -1,0 +1,112 @@
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.dll.config
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.EF6.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\DelegateDecompiler.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\DelegateDecompiler.EntityFramework.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.SqlServer.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.ViewModels.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\Mono.Reflection.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\System.ValueTuple.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Common.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.dll.config
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.ViewModels.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.xml
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.xml
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.SqlServer.xml
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\System.ValueTuple.xml
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Common.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.AssemblyReference.cache
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.CoreCompileInputs.cache
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.CopyComplete
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.dll.config
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.pdb
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.EF6.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\DelegateDecompiler.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\DelegateDecompiler.EntityFramework.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.ViewModels.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\Mono.Reflection.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\System.ValueTuple.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Common.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.pdb
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.dll.config
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.ViewModels.pdb
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.pdb
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.xml
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.xml
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\System.ValueTuple.xml
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Common.pdb
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csprojAssemblyReference.cache
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.CoreCompileInputs.cache
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.CopyComplete
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.dll.config
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.EF6.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\DelegateDecompiler.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\DelegateDecompiler.EntityFramework.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.ViewModels.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\Mono.Reflection.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\System.ValueTuple.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Common.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.dll.config
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.ViewModels.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.xml
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.xml
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\System.ValueTuple.xml
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Common.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csprojAssemblyReference.cache
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.CoreCompileInputs.cache
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.CopyComplete
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.dll.config
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Services.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.EF6.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\DelegateDecompiler.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\DelegateDecompiler.EntityFramework.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.ViewModels.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\Mono.Reflection.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\System.ValueTuple.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Common.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Core.dll.config
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.ViewModels.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\AutoMapper.xml
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.xml
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\System.ValueTuple.xml
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\bin\Debug\FA.JustBlog.Common.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csprojAssemblyReference.cache
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.CoreCompileInputs.cache
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.csproj.CopyComplete
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Services\obj\Debug\FA.JustBlog.Services.pdb

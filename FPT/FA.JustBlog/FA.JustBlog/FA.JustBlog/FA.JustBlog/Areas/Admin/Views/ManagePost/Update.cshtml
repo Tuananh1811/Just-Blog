@@ -1,0 +1,95 @@
+﻿@using FA.JustBlog.ViewModels.Posts
+@using FA.JustBlog.ViewModels.Categories
+
+@model UpdatePostViewModel
+
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    var categories = TempData["Category"] as IEnumerable<CategoryViewModel>;
+}
+
+
+
+
+<div class="section__content section__content--p30">
+    <div class="container-fluid">
+
+        <br>
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="title-1 m-b-25">SỬA DANH MỤC</h2>
+                <form method="post" action="@Url.Action("Update", "ManagePost")" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+                    @Html.TextBoxFor(model => model.Id, new { hidden = true })
+                    <div class="form-group">
+                        <label>Tiêu đề</label>
+                        @Html.TextBoxFor(model => model.Title, new { @class = "form-control", value = $"{Model.Title}", onchange = "changeUrl('Title', 'UrlSlug')" })
+                        @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label>Url Slug</label>
+                        @Html.TextBoxFor(model => model.UrlSlug, new { @class = "form-control", value = $"{Model.UrlSlug}", @readonly = true })
+                        @Html.ValidationMessageFor(model => model.UrlSlug, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="">Mô tả ngắn</label>
+                        @Html.TextAreaFor(model => model.ShortDescription, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.ShortDescription, null, new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="">Mô tả chi tiết</label>
+                        @Html.TextAreaFor(model => model.PostContent, new { htmlAttributes = new { @class = "form-control" }, id = "editor" , rows = 5 })
+                        @Html.ValidationMessageFor(model => model.PostContent, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="">Danh mục</label>
+                        @Html.DropDownList("CategoryId", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.CategoryId, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="">View Count</label>
+                        @Html.EditorFor(model => model.ViewCount, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.ViewCount, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="">Rate Count</label>
+                        @Html.EditorFor(model => model.RateCount, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.RateCount, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="">Total Rate</label>
+                        @Html.EditorFor(model => model.TotalRate, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.TotalRate, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="">Published</label>
+                        <div>
+                            <div class="checkbox">
+                                @Html.EditorFor(model => model.Published)
+                                @Html.ValidationMessageFor(model => model.Published, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-4">
+                        <button class="btn btn-primary" type="submit">
+                            Cập nhật
+                        </button>
+                        <a href="@Url.Action("Index","ManagePost")" class="btn btn-link">Huỷ</a>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+       
+    </div>
+</div>
+@if (ViewBag.Error != null)
+{
+    <br />
+    <div class="alert alert-danger" role="alert">@ViewBag.Error</div>
+}
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>

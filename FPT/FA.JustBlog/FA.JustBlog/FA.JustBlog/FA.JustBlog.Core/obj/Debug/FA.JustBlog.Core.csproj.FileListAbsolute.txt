@@ -1,0 +1,64 @@
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.dll.config
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Common.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Common.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.xml
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.AssemblyReference.cache
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.Migrations.initialize.resources
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.GenerateResource.cache
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.dll
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.pdb
+F:\FSOFT\EntityFramework\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.CopyComplete
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.dll.config
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.pdb
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Common.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Common.pdb
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.xml
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csprojAssemblyReference.cache
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.Migrations.initialize.resources
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.GenerateResource.cache
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.CopyComplete
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.dll
+D:\C#\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.dll.config
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Common.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Common.pdb
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.xml
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csprojAssemblyReference.cache
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.Migrations.initialize.resources
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.GenerateResource.cache
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.CopyComplete
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.dll
+D:\Mock Finally\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.dll.config
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Core.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Common.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\FA.JustBlog.Common.pdb
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.xml
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csprojAssemblyReference.cache
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.Migrations.initialize.resources
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.GenerateResource.cache
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.CoreCompileInputs.cache
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.csproj.CopyComplete
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.dll
+D:\FPT\FA.JustBlog\FA.JustBlog\FA.JustBlog\FA.JustBlog.Core\obj\Debug\FA.JustBlog.Core.pdb

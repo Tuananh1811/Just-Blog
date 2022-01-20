@@ -1,0 +1,57 @@
++Gán: message = hello
+!echo {message}
+
+-- %pwd - chọn thư mục content
+-- !cd /..../..../.... - chọn đường dẫn
+-- !cd - quay lại
+-- !cd .. quay lại thư mục trước đó
+-- !echo ".." - in ra màn hình 
+vd: !echo abc>hello.txt
+-- !ls - hiển thị thư mục đang thao tác
+-- !mkdir - tạo thư mục
+vd: !mkdir /content/drive/.....
+-- !rm lệnh remove 
+-- !rmdir xoá thư mục
+-- !touch tạo file
+-- !mv lệnh di chuyển hoặc đổi tên
+vd: mv tech.css /sid ?move
+vd: mv index.html about.html ?đổi tên
+-- !cp lệnh copy
+-- !open lệnh mở
+-- !edit lệnh edit
+-- !cat lệnh đọc file
+vd: cat .bashrc hiển thị toàn bộ nội dung
+-- !whoami lệnh hiển thị tên người dùng hệ thống
+-- !history liệt kê các lệnh đưa ra trước
+-- !passwd thay đổi mâth khẩu
+
+
+%github command
+-- git init : tạo môi trường git
+-- git status: check tình trạng hiện tại của folder git.
+-- git add  <tên file>: add file cần push vào folder.
+-- git add . : add all.
+-- git commit -m "comment here": commit git và comment.
+-- git log: kiểm tra lịch sử
+-- git log --stat: kiểm tra sâu hơn.
+-- git remote add origin <Link git here>: Tạo kết nối tới git respo trên github
+-- q+Enter: quit
+-- git clone: lay du lieu web ve <Chưa có dữ liệu>
+
+-- git push -u  origin master: push với master;
+-- git pull: đồng bộ code. <Đã có dữ liệu>
+Có thể dùng vim để chỉnh code trực tiếp
+-- git rm -r * -f -q: git delete all;
+-- git rm -r <path>: git delete path;
+-- git branch add <tên branch>: tạo 1 branch mới.
+-- git checkout -b <tên branch>: vừa tạo branch, vừa chọn branch đấy luôn
+-- git branch -a: hiển thị list branch.
+-- git checkout <tên branch đã tồn tại>: thay đổi branch để push dữ liệu.
+-- git push --set-upstream origin <tên branch>: cấp quyền cho branch
+
++ Nếu ở main
+-- gcam: vừa commit, vừa comment
+-- git merge <tên branch>: Đồng bộ hoá branch phụ với branch chính <main>
+
+
+

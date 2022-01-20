@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Register</title>
+</head>
+
+<body>
+    <div class=" bg-secondary full-height align  col-sm-12 col-12">
+        <div class="container  h-auto  col-lg-3 col-md-6 col-sm-8 col-8 style_form-login">
+            <h3 class="container-fluid text-center text-success fw-bold"> Register Account</h3>
+            <br>
+            <form id="form">
+                <div class="mb-3 ">
+                    <label class="form-label col-md-12 col-sm-12 col-12 fw-bold">User Name</label>
+                    <input type="text" size="50" class="form-control " placeholder="User name" name="User Name" id="username">
+                    <small>1</small>
+                </div>
+                <div class="mb-3 ">
+                    <label class="form-label col-md-12 col-sm-12 col-12 fw-bold">Email address</label>
+                    <input type="email" id="email" class="form-control form-check" placeholder="Email@gmail.com" name="Email" aria-describedby="emailHelp">
+                    <small>1</small>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label col-md-12 col-sm-12 col-12 fw-bold">Password</label>
+                    <input type="password" size="50" class="form-control" placeholder="Password" name="Password" id="password">
+                    <small>1</small>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label col-md-12 col-sm-12 col-12 fw-bold"> Re-Password</label>
+                    <input type="password" class="form-control" placeholder=" Re-password" name="Re-Password" id="repassword">
+                    <small>1</small>
+                </div>
+
+
+                <button type="submit" class="btn btn-success container " id="register">Submit</button>
+                <a href="/login.html" class="link-primary style_link-login">Click here to Login</a>
+            </form>
+        </div>
+    </div>
+    <script src="script/script_register.js"></script>
+</body>
+
+</html>

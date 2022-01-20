@@ -1,0 +1,7 @@
+D:\FPT\C#\be NPL.M.A005\NPL.M.A005.Exercise2\bin\Debug\NPL.M.A005.Exercise2.exe.config
+D:\FPT\C#\be NPL.M.A005\NPL.M.A005.Exercise2\bin\Debug\NPL.M.A005.Exercise2.exe
+D:\FPT\C#\be NPL.M.A005\NPL.M.A005.Exercise2\bin\Debug\NPL.M.A005.Exercise2.pdb
+D:\FPT\C#\be NPL.M.A005\NPL.M.A005.Exercise2\obj\Debug\NPL.M.A005.Exercise2.csprojAssemblyReference.cache
+D:\FPT\C#\be NPL.M.A005\NPL.M.A005.Exercise2\obj\Debug\NPL.M.A005.Exercise2.csproj.CoreCompileInputs.cache
+D:\FPT\C#\be NPL.M.A005\NPL.M.A005.Exercise2\obj\Debug\NPL.M.A005.Exercise2.exe
+D:\FPT\C#\be NPL.M.A005\NPL.M.A005.Exercise2\obj\Debug\NPL.M.A005.Exercise2.pdb

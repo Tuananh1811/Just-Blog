@@ -1,0 +1,7 @@
+D:\FPT\C#\NPL.M.A011\NPL.M.A011.EmployeeManagement\bin\Debug\NPL.M.A011.EmployeeManagement.exe.config
+D:\FPT\C#\NPL.M.A011\NPL.M.A011.EmployeeManagement\bin\Debug\NPL.M.A011.EmployeeManagement.exe
+D:\FPT\C#\NPL.M.A011\NPL.M.A011.EmployeeManagement\bin\Debug\NPL.M.A011.EmployeeManagement.pdb
+D:\FPT\C#\NPL.M.A011\NPL.M.A011.EmployeeManagement\obj\Debug\NPL.M.A011.EmployeeManagement.csprojAssemblyReference.cache
+D:\FPT\C#\NPL.M.A011\NPL.M.A011.EmployeeManagement\obj\Debug\NPL.M.A011.EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\FPT\C#\NPL.M.A011\NPL.M.A011.EmployeeManagement\obj\Debug\NPL.M.A011.EmployeeManagement.exe
+D:\FPT\C#\NPL.M.A011\NPL.M.A011.EmployeeManagement\obj\Debug\NPL.M.A011.EmployeeManagement.pdb
